@@ -1,0 +1,11 @@
+bf
+bf-neo
+gf
+garcello
+garcellotired
+garcellodead
+garcelloghosty
+neo-garcello
+neo-garcellotired
+neo-garcellodead
+neo-garcelloghosty
